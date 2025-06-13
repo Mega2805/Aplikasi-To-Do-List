@@ -15,6 +15,7 @@ User dapat menambahkan, mencentang, dan menghapus tugas dengan tampilan antarmuk
 
 ## Struktur Folder
 - index.php - tampilan halaman utama
+- style.css - file css
 - README.md - dokumentasi struktur
 
 ## Cara Menjalankan
