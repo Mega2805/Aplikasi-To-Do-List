@@ -1,7 +1,6 @@
 # Aplikasi To-Do List Web (PHP + Bootstrap)
 
-Aplikasi To-Do List sederhana berbasis web yang dibuat menggunakan PHP dan Bootstrap 5. 
-Data disimpan dalam array menggunakan `$_SESSION`, tanpa memerlukan database. 
+Aplikasi To-Do List sederhana berbasis web yang dibuat menggunakan PHP dan Bootstrap 5.
 User dapat menambahkan, mencentang, dan menghapus tugas dengan tampilan antarmuka yang bersih dan responsif.
 
 ## Fitur
@@ -11,7 +10,6 @@ User dapat menambahkan, mencentang, dan menghapus tugas dengan tampilan antarmuk
 - Menghapus tugas dengan konfirmasi
 - Tampilan responsif menggunakan Bootstrap 5
 - Warna status tugas: hijau untuk *selesai*, merah untuk *belum*
-- Penyimpanan data berbasis session (tanpa database)
 
 ## Struktur Folder
 - index.php - tampilan halaman utama
