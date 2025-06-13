@@ -1,7 +1,7 @@
 # Aplikasi To-Do List Web (PHP + Bootstrap)
 
 Aplikasi To-Do List sederhana berbasis web yang dibuat menggunakan PHP dan Bootstrap 5.
-User dapat menambahkan, mencentang, dan menghapus tugas dengan tampilan antarmuka yang bersih dan responsif.
+User dapat menambahkan, mencentang, dan menghapus tugas harian.
 
 ## Fitur
 
