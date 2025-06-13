@@ -48,40 +48,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['task'])) {
     <meta charset="UTF-8">
     <title>To-Do List (Bootstrap)</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-    .body {
-        background-color:rgb(247, 134, 173); 
-    }
-
-    .container {
-        background-color:rgb(255, 210, 225); /* tetap putih untuk konten utama */
-        padding: 20px;
-        border-radius: 10px;
-        box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
-    }
-
-    .btn-tambah {
-        background-color: #ff69b4;  /* Pink */
-        color:rgb(255, 255, 255);
-        font-weight: bold;
-        border: none;
-    }
-
-    .btn-tambah:hover {
-        background-color: #e758a8;
-    }
-
-    .btn-hapus {
-        background-color: #ff69b4;  /* Pink */
-        color: white;
-        font-weight: bold;
-        border: none;
-    }
-
-    .btn-hapus:hover {
-        background-color: #e758a8;
-    }
-</style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body class="bg-light">
 

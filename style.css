@@ -1,0 +1,33 @@
+
+    body {
+        background-color:rgb(247, 134, 173); 
+    }
+
+    .container {
+        background-color:rgb(255, 210, 225); /* tetap putih untuk konten utama */
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+    }
+
+    .btn-tambah {
+        background-color: #ff69b4;  /* Pink */
+        color:rgb(255, 255, 255);
+        font-weight: bold;
+        border: none;
+    }
+
+    .btn-tambah:hover {
+        background-color: #e758a8;
+    }
+
+    .btn-hapus {
+        background-color: #ff69b4;  /* Pink */
+        color: white;
+        font-weight: bold;
+        border: none;
+    }
+
+    .btn-hapus:hover {
+        background-color: #e758a8;
+    }
