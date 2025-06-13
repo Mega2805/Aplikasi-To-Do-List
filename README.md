@@ -25,5 +25,5 @@ User dapat menambahkan, mencentang, dan menghapus tugas dengan tampilan antarmuk
 
 ## Kontributor
 - Mega Maudi Anggraeni 
-- link github : 
+- link github : https://github.com/Mega2805/Aplikasi-To-Do-List
 
